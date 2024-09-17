@@ -10,7 +10,7 @@ If you would like to clear the "Enclave broken" message on startup, you will nee
 
 If you want to have your own key(for privacy, you should), you will need the tool in utils folder.
 
-To use the U2F function, replace the U2F cert in whoes assests folder with the cert&.u2f file in the cert folder.
+To use the U2F function, replace the U2F cert in whose assests folder with the cert&.u2f file in the cert folder.
 
 Discover more on https://www.lapiw.icu/flipper_zero_cks_u2f
 
